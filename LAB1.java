@@ -7,7 +7,7 @@ import java.util.Scanner;
  * Assume that the list will always contain fewer than 20 integers.
  */
 
-public class Lab_1 {
+public class LAB1 {
 
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);

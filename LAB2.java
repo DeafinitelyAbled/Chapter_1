@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab_2 {
+public class LAB2 {
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
         int[] userValues = new int[9];
